@@ -53,6 +53,8 @@
   <a href="https://github.com/tob-alvarez"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+![Tobias Alvarez Github Stats](https://github-readme-stats.vercel.app/api?username=tob-alvarez&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ---
 
 <div align="center">
